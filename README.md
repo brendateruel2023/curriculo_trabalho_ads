@@ -28,3 +28,8 @@ Atendimentos de chamados por meio de plataforma específica;
 Negociação e levantamentos de requisitos com os usuários, realizando triagem do problema descrito;
 Treinamentos para colaboradores, visando os interesses do cargo do funcionário;
 Realização de DOR de melhorias e Bugs de acordo com a necessidade do usuário e padrão da instituição.
+
+# Cursos
+
+Pacote Básico Office
+
