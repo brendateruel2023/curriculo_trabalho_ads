@@ -33,3 +33,8 @@ Realização de DOR de melhorias e Bugs de acordo com a necessidade do usuário 
 
 Pacote Básico Office
 
+# Habilidades
+
+Boa comunicação
+Trabalho em equipe
+Empatia com usuário/cliente
