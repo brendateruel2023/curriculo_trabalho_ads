@@ -1,0 +1,1 @@
+# curriculo_trabalho_ads
